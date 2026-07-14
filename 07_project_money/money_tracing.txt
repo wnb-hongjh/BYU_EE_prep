@@ -1,0 +1,6 @@
+type: i, amount: 500, content: 1
+type: e, amount: 600, content: test
+type: e, amount: 400, content: test2
+type: i, amount: 10000, content: test3
+type: e, amount: -134810124, content: ct_money\"
+type: e, amount: 5000000, content: test2
