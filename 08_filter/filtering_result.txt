@@ -1,0 +1,1800 @@
+index: 1
+time: 0.00
+clean_value: 0.000000
+noisy_value: -0.128000
+filtered_value: 0.041395
+
+index: 2
+time: 0.01
+clean_value: 0.062791
+noisy_value: 0.210791
+filtered_value: 0.024041
+
+index: 3
+time: 0.02
+clean_value: 0.125333
+noisy_value: -0.010667
+filtered_value: 0.190502
+
+index: 4
+time: 0.03
+clean_value: 0.187381
+noisy_value: 0.371381
+filtered_value: 0.137801
+
+index: 5
+time: 0.04
+clean_value: 0.248690
+noisy_value: 0.052690
+filtered_value: 0.265696
+
+index: 6
+time: 0.05
+clean_value: 0.309017
+noisy_value: 0.373017
+filtered_value: 0.269944
+
+index: 7
+time: 0.06
+clean_value: 0.368125
+noisy_value: 0.384125
+filtered_value: 0.336974
+
+index: 8
+time: 0.07
+clean_value: 0.425779
+noisy_value: 0.253779
+filtered_value: 0.355886
+
+index: 9
+time: 0.08
+clean_value: 0.481754
+noisy_value: 0.429754
+filtered_value: 0.451787
+
+index: 10
+time: 0.09
+clean_value: 0.535827
+noisy_value: 0.671827
+filtered_value: 0.596455
+
+index: 11
+time: 0.10
+clean_value: 0.587785
+noisy_value: 0.687785
+filtered_value: 0.627012
+
+index: 12
+time: 0.11
+clean_value: 0.637424
+noisy_value: 0.521424
+filtered_value: 0.661919
+
+index: 13
+time: 0.12
+clean_value: 0.684547
+noisy_value: 0.776547
+filtered_value: 0.670313
+
+index: 14
+time: 0.13
+clean_value: 0.728969
+noisy_value: 0.712969
+filtered_value: 0.754676
+
+index: 15
+time: 0.14
+clean_value: 0.770513
+noisy_value: 0.774513
+filtered_value: 0.810833
+
+index: 16
+time: 0.15
+clean_value: 0.809017
+noisy_value: 0.945017
+filtered_value: 0.826619
+
+index: 17
+time: 0.16
+clean_value: 0.844328
+noisy_value: 0.760328
+filtered_value: 0.852551
+
+index: 18
+time: 0.17
+clean_value: 0.876307
+noisy_value: 0.852307
+filtered_value: 0.877821
+
+index: 19
+time: 0.18
+clean_value: 0.904827
+noisy_value: 1.020827
+filtered_value: 0.943637
+
+index: 20
+time: 0.19
+clean_value: 0.929776
+noisy_value: 0.957776
+filtered_value: 0.939220
+
+index: 21
+time: 0.20
+clean_value: 0.951057
+noisy_value: 0.839057
+filtered_value: 0.920472
+
+index: 22
+time: 0.21
+clean_value: 0.968583
+noisy_value: 0.964583
+filtered_value: 0.956642
+
+index: 23
+time: 0.22
+clean_value: 0.982287
+noisy_value: 1.066287
+filtered_value: 1.016995
+
+index: 24
+time: 0.23
+clean_value: 0.992115
+noisy_value: 1.020115
+filtered_value: 1.004143
+
+index: 25
+time: 0.24
+clean_value: 0.998027
+noisy_value: 0.926027
+filtered_value: 0.942047
+
+index: 26
+time: 0.25
+clean_value: 1.000000
+noisy_value: 0.880000
+filtered_value: 0.976018
+
+index: 27
+time: 0.26
+clean_value: 0.998027
+noisy_value: 1.122027
+filtered_value: 0.982047
+
+index: 28
+time: 0.27
+clean_value: 0.992115
+noisy_value: 0.944115
+filtered_value: 1.008143
+
+index: 29
+time: 0.28
+clean_value: 0.982287
+noisy_value: 0.958287
+filtered_value: 0.952995
+
+index: 30
+time: 0.29
+clean_value: 0.968583
+noisy_value: 0.956583
+filtered_value: 0.911309
+
+index: 31
+time: 0.30
+clean_value: 0.951056
+noisy_value: 0.819057
+filtered_value: 0.967139
+
+index: 32
+time: 0.31
+clean_value: 0.929776
+noisy_value: 1.125777
+filtered_value: 0.913887
+
+index: 33
+time: 0.32
+clean_value: 0.904827
+noisy_value: 0.796827
+filtered_value: 0.886303
+
+index: 34
+time: 0.33
+clean_value: 0.876307
+noisy_value: 0.736307
+filtered_value: 0.857821
+
+index: 35
+time: 0.34
+clean_value: 0.844328
+noisy_value: 1.040328
+filtered_value: 0.889884
+
+index: 36
+time: 0.35
+clean_value: 0.809017
+noisy_value: 0.893017
+filtered_value: 0.878619
+
+index: 37
+time: 0.36
+clean_value: 0.770513
+noisy_value: 0.702513
+filtered_value: 0.784166
+
+index: 38
+time: 0.37
+clean_value: 0.728969
+noisy_value: 0.756969
+filtered_value: 0.746676
+
+index: 39
+time: 0.38
+clean_value: 0.684547
+noisy_value: 0.780547
+filtered_value: 0.702313
+
+index: 40
+time: 0.39
+clean_value: 0.637424
+noisy_value: 0.569424
+filtered_value: 0.655252
+
+index: 41
+time: 0.40
+clean_value: 0.587785
+noisy_value: 0.615785
+filtered_value: 0.601679
+
+index: 42
+time: 0.41
+clean_value: 0.535827
+noisy_value: 0.619827
+filtered_value: 0.513789
+
+index: 43
+time: 0.42
+clean_value: 0.481754
+noisy_value: 0.305754
+filtered_value: 0.510453
+
+index: 44
+time: 0.43
+clean_value: 0.425779
+noisy_value: 0.605779
+filtered_value: 0.363886
+
+index: 45
+time: 0.44
+clean_value: 0.368125
+noisy_value: 0.180125
+filtered_value: 0.364974
+
+index: 46
+time: 0.45
+clean_value: 0.309017
+noisy_value: 0.309017
+filtered_value: 0.259277
+
+index: 47
+time: 0.46
+clean_value: 0.248690
+noisy_value: 0.288690
+filtered_value: 0.204363
+
+index: 48
+time: 0.47
+clean_value: 0.187381
+noisy_value: 0.015381
+filtered_value: 0.197801
+
+index: 49
+time: 0.48
+clean_value: 0.125333
+noisy_value: 0.289333
+filtered_value: 0.069168
+
+index: 50
+time: 0.49
+clean_value: 0.062790
+noisy_value: -0.097210
+filtered_value: 0.025375
+
+index: 51
+time: 0.50
+clean_value: 0.000000
+noisy_value: -0.116000
+filtered_value: -0.053333
+
+index: 52
+time: 0.51
+clean_value: -0.062790
+noisy_value: 0.053210
+filtered_value: -0.020041
+
+index: 53
+time: 0.52
+clean_value: -0.125333
+noisy_value: 0.002667
+filtered_value: 0.004165
+
+index: 54
+time: 0.53
+clean_value: -0.187381
+noisy_value: -0.043381
+filtered_value: -0.136468
+
+index: 55
+time: 0.54
+clean_value: -0.248690
+noisy_value: -0.368690
+filtered_value: -0.280363
+
+index: 56
+time: 0.55
+clean_value: -0.309017
+noisy_value: -0.429017
+filtered_value: -0.441944
+
+index: 57
+time: 0.56
+clean_value: -0.368125
+noisy_value: -0.528125
+filtered_value: -0.418307
+
+index: 58
+time: 0.57
+clean_value: -0.425779
+noisy_value: -0.297779
+filtered_value: -0.433219
+
+index: 59
+time: 0.58
+clean_value: -0.481754
+noisy_value: -0.473754
+filtered_value: -0.491787
+
+index: 60
+time: 0.59
+clean_value: -0.535827
+noisy_value: -0.703827
+filtered_value: -0.651122
+
+index: 61
+time: 0.60
+clean_value: -0.587785
+noisy_value: -0.775785
+filtered_value: -0.705679
+
+index: 62
+time: 0.61
+clean_value: -0.637424
+noisy_value: -0.637424
+filtered_value: -0.759252
+
+index: 63
+time: 0.62
+clean_value: -0.684547
+noisy_value: -0.864547
+filtered_value: -0.691647
+
+index: 64
+time: 0.63
+clean_value: -0.728969
+noisy_value: -0.572969
+filtered_value: -0.793343
+
+index: 65
+time: 0.64
+clean_value: -0.770513
+noisy_value: -0.942513
+filtered_value: -0.760166
+
+index: 66
+time: 0.65
+clean_value: -0.809017
+noisy_value: -0.765017
+filtered_value: -0.894619
+
+index: 67
+time: 0.66
+clean_value: -0.844328
+noisy_value: -0.976328
+filtered_value: -0.884551
+
+index: 68
+time: 0.67
+clean_value: -0.876307
+noisy_value: -0.912307
+filtered_value: -0.889821
+
+index: 69
+time: 0.68
+clean_value: -0.904827
+noisy_value: -0.780827
+filtered_value: -0.847637
+
+index: 70
+time: 0.69
+clean_value: -0.929776
+noisy_value: -0.849777
+filtered_value: -0.869887
+
+index: 71
+time: 0.70
+clean_value: -0.951056
+noisy_value: -0.979056
+filtered_value: -0.976472
+
+index: 72
+time: 0.71
+clean_value: -0.968583
+noisy_value: -1.100583
+filtered_value: -0.999309
+
+index: 73
+time: 0.72
+clean_value: -0.982287
+noisy_value: -0.918287
+filtered_value: -0.950328
+
+index: 74
+time: 0.73
+clean_value: -0.992115
+noisy_value: -0.832115
+filtered_value: -0.872143
+
+index: 75
+time: 0.74
+clean_value: -0.998027
+noisy_value: -0.866027
+filtered_value: -0.844714
+
+index: 76
+time: 0.75
+clean_value: -1.000000
+noisy_value: -0.836000
+filtered_value: -0.886684
+
+index: 77
+time: 0.76
+clean_value: -0.998027
+noisy_value: -0.958027
+filtered_value: -0.976714
+
+index: 78
+time: 0.77
+clean_value: -0.992115
+noisy_value: -1.136115
+filtered_value: -0.974810
+
+index: 79
+time: 0.78
+clean_value: -0.982287
+noisy_value: -0.830287
+filtered_value: -0.916995
+
+index: 80
+time: 0.79
+clean_value: -0.968583
+noisy_value: -0.784583
+filtered_value: -0.916642
+
+index: 81
+time: 0.80
+clean_value: -0.951056
+noisy_value: -1.135056
+filtered_value: -0.981805
+
+index: 82
+time: 0.81
+clean_value: -0.929776
+noisy_value: -1.025777
+filtered_value: -1.000553
+
+index: 83
+time: 0.82
+clean_value: -0.904827
+noisy_value: -0.840827
+filtered_value: -0.884970
+
+index: 84
+time: 0.83
+clean_value: -0.876307
+noisy_value: -0.788307
+filtered_value: -0.863154
+
+index: 85
+time: 0.84
+clean_value: -0.844328
+noisy_value: -0.960328
+filtered_value: -0.916550
+
+index: 86
+time: 0.85
+clean_value: -0.809017
+noisy_value: -1.001017
+filtered_value: -0.862619
+
+index: 87
+time: 0.86
+clean_value: -0.770513
+noisy_value: -0.626513
+filtered_value: -0.789500
+
+index: 88
+time: 0.87
+clean_value: -0.728969
+noisy_value: -0.740969
+filtered_value: -0.733343
+
+index: 89
+time: 0.88
+clean_value: -0.684547
+noisy_value: -0.832547
+filtered_value: -0.783647
+
+index: 90
+time: 0.89
+clean_value: -0.637424
+noisy_value: -0.777424
+filtered_value: -0.701919
+
+index: 91
+time: 0.90
+clean_value: -0.587785
+noisy_value: -0.495785
+filtered_value: -0.628345
+
+index: 92
+time: 0.91
+clean_value: -0.535827
+noisy_value: -0.611827
+filtered_value: -0.521789
+
+index: 93
+time: 0.92
+clean_value: -0.481754
+noisy_value: -0.457754
+filtered_value: -0.441120
+
+index: 94
+time: 0.93
+clean_value: -0.425779
+noisy_value: -0.253779
+filtered_value: -0.330552
+
+index: 95
+time: 0.94
+clean_value: -0.368125
+noisy_value: -0.280125
+filtered_value: -0.290307
+
+index: 96
+time: 0.95
+clean_value: -0.309017
+noisy_value: -0.337017
+filtered_value: -0.239277
+
+index: 97
+time: 0.96
+clean_value: -0.248690
+noisy_value: -0.100690
+filtered_value: -0.268363
+
+index: 98
+time: 0.97
+clean_value: -0.187381
+noisy_value: -0.367381
+filtered_value: -0.184468
+
+index: 99
+time: 0.98
+clean_value: -0.125333
+noisy_value: -0.085333
+filtered_value: -0.195835
+
+index: 100
+time: 0.99
+clean_value: -0.062790
+noisy_value: -0.134790
+filtered_value: -0.020041
+
+index: 101
+time: 1.00
+clean_value: -0.000000
+noisy_value: 0.160000
+filtered_value: 0.088000
+
+index: 102
+time: 1.01
+clean_value: 0.062790
+noisy_value: 0.238790
+filtered_value: 0.236041
+
+index: 103
+time: 1.02
+clean_value: 0.125333
+noisy_value: 0.309333
+filtered_value: 0.277168
+
+index: 104
+time: 1.03
+clean_value: 0.187381
+noisy_value: 0.283381
+filtered_value: 0.257801
+
+index: 105
+time: 1.04
+clean_value: 0.248690
+noisy_value: 0.180690
+filtered_value: 0.319029
+
+index: 106
+time: 1.05
+clean_value: 0.309017
+noisy_value: 0.493017
+filtered_value: 0.357944
+
+index: 107
+time: 1.06
+clean_value: 0.368124
+noisy_value: 0.400124
+filtered_value: 0.379640
+
+index: 108
+time: 1.07
+clean_value: 0.425780
+noisy_value: 0.245780
+filtered_value: 0.382553
+
+index: 109
+time: 1.08
+clean_value: 0.481754
+noisy_value: 0.501754
+filtered_value: 0.491787
+
+index: 110
+time: 1.09
+clean_value: 0.535827
+noisy_value: 0.727827
+filtered_value: 0.651122
+
+index: 111
+time: 1.10
+clean_value: 0.587785
+noisy_value: 0.723785
+filtered_value: 0.677679
+
+index: 112
+time: 1.11
+clean_value: 0.637424
+noisy_value: 0.581424
+filtered_value: 0.612585
+
+index: 113
+time: 1.12
+clean_value: 0.684547
+noisy_value: 0.532547
+filtered_value: 0.658313
+
+index: 114
+time: 1.13
+clean_value: 0.728969
+noisy_value: 0.860969
+filtered_value: 0.777343
+
+index: 115
+time: 1.14
+clean_value: 0.770513
+noisy_value: 0.938513
+filtered_value: 0.922833
+
+index: 116
+time: 1.15
+clean_value: 0.809017
+noisy_value: 0.969017
+filtered_value: 0.906619
+
+index: 117
+time: 1.16
+clean_value: 0.844328
+noisy_value: 0.812328
+filtered_value: 0.887217
+
+index: 118
+time: 1.17
+clean_value: 0.876307
+noisy_value: 0.880307
+filtered_value: 0.828487
+
+index: 119
+time: 1.18
+clean_value: 0.904827
+noisy_value: 0.792827
+filtered_value: 0.900970
+
+index: 120
+time: 1.19
+clean_value: 0.929777
+noisy_value: 1.029777
+filtered_value: 0.881887
+
+index: 121
+time: 1.20
+clean_value: 0.951057
+noisy_value: 0.823057
+filtered_value: 0.975139
+
+index: 122
+time: 1.21
+clean_value: 0.968583
+noisy_value: 1.072583
+filtered_value: 0.988642
+
+index: 123
+time: 1.22
+clean_value: 0.982287
+noisy_value: 1.070287
+filtered_value: 1.086328
+
+index: 124
+time: 1.23
+clean_value: 0.992115
+noisy_value: 1.116115
+filtered_value: 1.064143
+
+index: 125
+time: 1.24
+clean_value: 0.998027
+noisy_value: 1.006027
+filtered_value: 1.092714
+
+index: 126
+time: 1.25
+clean_value: 1.000000
+noisy_value: 1.156000
+filtered_value: 1.032018
+
+index: 127
+time: 1.26
+clean_value: 0.998027
+noisy_value: 0.934027
+filtered_value: 1.060714
+
+index: 128
+time: 1.27
+clean_value: 0.992115
+noisy_value: 1.092115
+filtered_value: 0.938810
+
+index: 129
+time: 1.28
+clean_value: 0.982287
+noisy_value: 0.790287
+filtered_value: 0.996995
+
+index: 130
+time: 1.29
+clean_value: 0.968583
+noisy_value: 1.108583
+filtered_value: 0.924642
+
+index: 131
+time: 1.30
+clean_value: 0.951057
+noisy_value: 0.875057
+filtered_value: 0.933805
+
+index: 132
+time: 1.31
+clean_value: 0.929777
+noisy_value: 0.817777
+filtered_value: 0.820553
+
+index: 133
+time: 1.32
+clean_value: 0.904827
+noisy_value: 0.768827
+filtered_value: 0.784970
+
+index: 134
+time: 1.33
+clean_value: 0.876307
+noisy_value: 0.768307
+filtered_value: 0.775154
+
+index: 135
+time: 1.34
+clean_value: 0.844328
+noisy_value: 0.788328
+filtered_value: 0.848550
+
+index: 136
+time: 1.35
+clean_value: 0.809017
+noisy_value: 0.989017
+filtered_value: 0.799953
+
+index: 137
+time: 1.36
+clean_value: 0.770513
+noisy_value: 0.622513
+filtered_value: 0.810833
+
+index: 138
+time: 1.37
+clean_value: 0.728969
+noisy_value: 0.820969
+filtered_value: 0.646676
+
+index: 139
+time: 1.38
+clean_value: 0.684547
+noisy_value: 0.496547
+filtered_value: 0.650313
+
+index: 140
+time: 1.39
+clean_value: 0.637424
+noisy_value: 0.633424
+filtered_value: 0.560585
+
+index: 141
+time: 1.40
+clean_value: 0.587785
+noisy_value: 0.551785
+filtered_value: 0.516345
+
+index: 142
+time: 1.41
+clean_value: 0.535827
+noisy_value: 0.363827
+filtered_value: 0.435122
+
+index: 143
+time: 1.42
+clean_value: 0.481754
+noisy_value: 0.389754
+filtered_value: 0.431787
+
+index: 144
+time: 1.43
+clean_value: 0.425780
+noisy_value: 0.541780
+filtered_value: 0.435886
+
+index: 145
+time: 1.44
+clean_value: 0.368124
+noisy_value: 0.376124
+filtered_value: 0.348974
+
+index: 146
+time: 1.45
+clean_value: 0.309017
+noisy_value: 0.129017
+filtered_value: 0.224610
+
+index: 147
+time: 1.46
+clean_value: 0.248690
+noisy_value: 0.168690
+filtered_value: 0.189696
+
+index: 148
+time: 1.47
+clean_value: 0.187381
+noisy_value: 0.271381
+filtered_value: 0.231135
+
+index: 149
+time: 1.48
+clean_value: 0.125333
+noisy_value: 0.253333
+filtered_value: 0.138502
+
+index: 150
+time: 1.49
+clean_value: 0.062790
+noisy_value: -0.109210
+filtered_value: 0.080041
+
+index: 151
+time: 1.50
+clean_value: 0.000000
+noisy_value: 0.096000
+filtered_value: -0.028000
+
+index: 152
+time: 1.51
+clean_value: -0.062790
+noisy_value: -0.070790
+filtered_value: 0.027959
+
+index: 153
+time: 1.52
+clean_value: -0.125333
+noisy_value: 0.058667
+filtered_value: -0.074502
+
+index: 154
+time: 1.53
+clean_value: -0.187381
+noisy_value: -0.211381
+filtered_value: -0.161801
+
+index: 155
+time: 1.54
+clean_value: -0.248690
+noisy_value: -0.332690
+filtered_value: -0.292362
+
+index: 156
+time: 1.55
+clean_value: -0.309017
+noisy_value: -0.333017
+filtered_value: -0.307277
+
+index: 157
+time: 1.56
+clean_value: -0.368124
+noisy_value: -0.256124
+filtered_value: -0.360974
+
+index: 158
+time: 1.57
+clean_value: -0.425780
+noisy_value: -0.493780
+filtered_value: -0.382553
+
+index: 159
+time: 1.58
+clean_value: -0.481754
+noisy_value: -0.397754
+filtered_value: -0.485120
+
+index: 160
+time: 1.59
+clean_value: -0.535827
+noisy_value: -0.563827
+filtered_value: -0.560455
+
+index: 161
+time: 1.60
+clean_value: -0.587785
+noisy_value: -0.719785
+filtered_value: -0.703012
+
+index: 162
+time: 1.61
+clean_value: -0.637424
+noisy_value: -0.825424
+filtered_value: -0.700586
+
+index: 163
+time: 1.62
+clean_value: -0.684547
+noisy_value: -0.556547
+filtered_value: -0.711647
+
+index: 164
+time: 1.63
+clean_value: -0.728969
+noisy_value: -0.752969
+filtered_value: -0.736010
+
+index: 165
+time: 1.64
+clean_value: -0.770513
+noisy_value: -0.898513
+filtered_value: -0.838833
+
+index: 166
+time: 1.65
+clean_value: -0.809017
+noisy_value: -0.865017
+filtered_value: -0.855953
+
+index: 167
+time: 1.66
+clean_value: -0.844328
+noisy_value: -0.804328
+filtered_value: -0.817884
+
+index: 168
+time: 1.67
+clean_value: -0.876307
+noisy_value: -0.784307
+filtered_value: -0.867154
+
+index: 169
+time: 1.68
+clean_value: -0.904827
+noisy_value: -1.012827
+filtered_value: -0.883637
+
+index: 170
+time: 1.69
+clean_value: -0.929777
+noisy_value: -0.853777
+filtered_value: -0.912553
+
+index: 171
+time: 1.70
+clean_value: -0.951057
+noisy_value: -0.871057
+filtered_value: -0.935139
+
+index: 172
+time: 1.71
+clean_value: -0.968583
+noisy_value: -1.080583
+filtered_value: -0.988642
+
+index: 173
+time: 1.72
+clean_value: -0.982287
+noisy_value: -1.014287
+filtered_value: -0.978328
+
+index: 174
+time: 1.73
+clean_value: -0.992115
+noisy_value: -0.840115
+filtered_value: -0.980143
+
+index: 175
+time: 1.74
+clean_value: -0.998027
+noisy_value: -1.086027
+filtered_value: -0.983380
+
+index: 176
+time: 1.75
+clean_value: -1.000000
+noisy_value: -1.024000
+filtered_value: -1.038684
+
+index: 177
+time: 1.76
+clean_value: -0.998027
+noisy_value: -1.006027
+filtered_value: -1.067381
+
+index: 178
+time: 1.77
+clean_value: -0.992115
+noisy_value: -1.172115
+filtered_value: -1.088143
+
+index: 179
+time: 1.78
+clean_value: -0.982287
+noisy_value: -1.086287
+filtered_value: -1.131662
+
+index: 180
+time: 1.79
+clean_value: -0.968583
+noisy_value: -1.136583
+filtered_value: -1.092642
+
+index: 181
+time: 1.80
+clean_value: -0.951057
+noisy_value: -1.055057
+filtered_value: -0.997806
+
+index: 182
+time: 1.81
+clean_value: -0.929777
+noisy_value: -0.801777
+filtered_value: -0.901887
+
+index: 183
+time: 1.82
+clean_value: -0.904827
+noisy_value: -0.848827
+filtered_value: -0.811637
+
+index: 184
+time: 1.83
+clean_value: -0.876307
+noisy_value: -0.784307
+filtered_value: -0.791154
+
+index: 185
+time: 1.84
+clean_value: -0.844328
+noisy_value: -0.740328
+filtered_value: -0.803217
+
+index: 186
+time: 1.85
+clean_value: -0.809017
+noisy_value: -0.885017
+filtered_value: -0.817286
+
+index: 187
+time: 1.86
+clean_value: -0.770513
+noisy_value: -0.826513
+filtered_value: -0.834833
+
+index: 188
+time: 1.87
+clean_value: -0.728969
+noisy_value: -0.792969
+filtered_value: -0.793343
+
+index: 189
+time: 1.88
+clean_value: -0.684547
+noisy_value: -0.760547
+filtered_value: -0.715647
+
+index: 190
+time: 1.89
+clean_value: -0.637424
+noisy_value: -0.593424
+filtered_value: -0.635252
+
+index: 191
+time: 1.90
+clean_value: -0.587785
+noisy_value: -0.551785
+filtered_value: -0.625679
+
+index: 192
+time: 1.91
+clean_value: -0.535827
+noisy_value: -0.731827
+filtered_value: -0.544455
+
+index: 193
+time: 1.92
+clean_value: -0.481754
+noisy_value: -0.349754
+filtered_value: -0.449120
+
+index: 194
+time: 1.93
+clean_value: -0.425780
+noisy_value: -0.265780
+filtered_value: -0.371886
+
+index: 195
+time: 1.94
+clean_value: -0.368124
+noisy_value: -0.500124
+filtered_value: -0.400974
+
+index: 196
+time: 1.95
+clean_value: -0.309017
+noisy_value: -0.437017
+filtered_value: -0.417944
+
+index: 197
+time: 1.96
+clean_value: -0.248690
+noisy_value: -0.316690
+filtered_value: -0.361696
+
+index: 198
+time: 1.97
+clean_value: -0.187381
+noisy_value: -0.331381
+filtered_value: -0.323135
+
+index: 199
+time: 1.98
+clean_value: -0.125333
+noisy_value: -0.321333
+filtered_value: -0.214502
+
+index: 200
+time: 1.99
+clean_value: -0.062790
+noisy_value: 0.009210
+filtered_value: -0.166708
+
+index: 201
+time: 2.00
+clean_value: -0.000000
+noisy_value: -0.188000
+filtered_value: 0.018667
+
+index: 202
+time: 2.01
+clean_value: 0.062790
+noisy_value: 0.234790
+filtered_value: 0.074708
+
+index: 203
+time: 2.02
+clean_value: 0.125333
+noisy_value: 0.177333
+filtered_value: 0.235835
+
+index: 204
+time: 2.03
+clean_value: 0.187381
+noisy_value: 0.295381
+filtered_value: 0.207135
+
+index: 205
+time: 2.04
+clean_value: 0.248690
+noisy_value: 0.148690
+filtered_value: 0.276363
+
+index: 206
+time: 2.05
+clean_value: 0.309017
+noisy_value: 0.385017
+filtered_value: 0.235277
+
+index: 207
+time: 2.06
+clean_value: 0.368124
+noisy_value: 0.172124
+filtered_value: 0.342307
+
+index: 208
+time: 2.07
+clean_value: 0.425779
+noisy_value: 0.469779
+filtered_value: 0.327885
+
+index: 209
+time: 2.08
+clean_value: 0.481753
+noisy_value: 0.341753
+filtered_value: 0.465119
+
+index: 210
+time: 2.09
+clean_value: 0.535826
+noisy_value: 0.583826
+filtered_value: 0.567121
+
+index: 211
+time: 2.10
+clean_value: 0.587785
+noisy_value: 0.775785
+filtered_value: 0.616345
+
+index: 212
+time: 2.11
+clean_value: 0.637423
+noisy_value: 0.489423
+filtered_value: 0.703252
+
+index: 213
+time: 2.12
+clean_value: 0.684547
+noisy_value: 0.844547
+filtered_value: 0.708980
+
+index: 214
+time: 2.13
+clean_value: 0.728969
+noisy_value: 0.792969
+filtered_value: 0.782676
+
+index: 215
+time: 2.14
+clean_value: 0.770514
+noisy_value: 0.710514
+filtered_value: 0.745500
+
+index: 216
+time: 2.15
+clean_value: 0.809017
+noisy_value: 0.733017
+filtered_value: 0.702620
+
+index: 217
+time: 2.16
+clean_value: 0.844328
+noisy_value: 0.664328
+filtered_value: 0.745884
+
+index: 218
+time: 2.17
+clean_value: 0.876307
+noisy_value: 0.840307
+filtered_value: 0.785821
+
+index: 219
+time: 2.18
+clean_value: 0.904827
+noisy_value: 0.852827
+filtered_value: 0.910304
+
+index: 220
+time: 2.19
+clean_value: 0.929777
+noisy_value: 1.037777
+filtered_value: 0.941887
+
+index: 221
+time: 2.20
+clean_value: 0.951057
+noisy_value: 0.935057
+filtered_value: 1.032472
+
+index: 222
+time: 2.21
+clean_value: 0.968583
+noisy_value: 1.124583
+filtered_value: 1.051309
+
+index: 223
+time: 2.22
+clean_value: 0.982287
+noisy_value: 1.094287
+filtered_value: 1.059662
+
+index: 224
+time: 2.23
+clean_value: 0.992115
+noisy_value: 0.960115
+filtered_value: 0.968143
+
+index: 225
+time: 2.24
+clean_value: 0.998027
+noisy_value: 0.850027
+filtered_value: 0.964714
+
+index: 226
+time: 2.25
+clean_value: 1.000000
+noisy_value: 1.084000
+filtered_value: 0.936018
+
+index: 227
+time: 2.26
+clean_value: 0.998027
+noisy_value: 0.874027
+filtered_value: 0.980714
+
+index: 228
+time: 2.27
+clean_value: 0.992115
+noisy_value: 0.984115
+filtered_value: 0.970810
+
+index: 229
+time: 2.28
+clean_value: 0.982287
+noisy_value: 1.054287
+filtered_value: 1.014328
+
+index: 230
+time: 2.29
+clean_value: 0.968583
+noisy_value: 1.004583
+filtered_value: 1.057976
+
+index: 231
+time: 2.30
+clean_value: 0.951057
+noisy_value: 1.115057
+filtered_value: 1.056472
+
+index: 232
+time: 2.31
+clean_value: 0.929777
+noisy_value: 1.049777
+filtered_value: 1.063220
+
+index: 233
+time: 2.32
+clean_value: 0.904827
+noisy_value: 1.024827
+filtered_value: 0.975637
+
+index: 234
+time: 2.33
+clean_value: 0.876307
+noisy_value: 0.852307
+filtered_value: 0.971154
+
+index: 235
+time: 2.34
+clean_value: 0.844328
+noisy_value: 1.036328
+filtered_value: 0.861884
+
+index: 236
+time: 2.35
+clean_value: 0.809017
+noisy_value: 0.697017
+filtered_value: 0.894620
+
+index: 237
+time: 2.36
+clean_value: 0.770514
+noisy_value: 0.950514
+filtered_value: 0.798833
+
+index: 238
+time: 2.37
+clean_value: 0.728969
+noisy_value: 0.748969
+filtered_value: 0.798676
+
+index: 239
+time: 2.38
+clean_value: 0.684547
+noisy_value: 0.696547
+filtered_value: 0.744980
+
+index: 240
+time: 2.39
+clean_value: 0.637423
+noisy_value: 0.789423
+filtered_value: 0.749918
+
+index: 241
+time: 2.40
+clean_value: 0.587785
+noisy_value: 0.763785
+filtered_value: 0.693678
+
+index: 242
+time: 2.41
+clean_value: 0.535826
+noisy_value: 0.527826
+filtered_value: 0.608455
+
+index: 243
+time: 2.42
+clean_value: 0.481753
+noisy_value: 0.533753
+filtered_value: 0.542453
+
+index: 244
+time: 2.43
+clean_value: 0.425779
+noisy_value: 0.565779
+filtered_value: 0.523885
+
+index: 245
+time: 2.44
+clean_value: 0.368124
+noisy_value: 0.472124
+filtered_value: 0.426307
+
+index: 246
+time: 2.45
+clean_value: 0.309017
+noisy_value: 0.241017
+filtered_value: 0.348610
+
+index: 247
+time: 2.46
+clean_value: 0.248690
+noisy_value: 0.332690
+filtered_value: 0.196362
+
+index: 248
+time: 2.47
+clean_value: 0.187381
+noisy_value: 0.015381
+filtered_value: 0.128468
+
+index: 249
+time: 2.48
+clean_value: 0.125333
+noisy_value: 0.037333
+filtered_value: 0.029168
+
+index: 250
+time: 2.49
+clean_value: 0.062790
+noisy_value: 0.034790
+filtered_value: -0.010625
+
+index: 251
+time: 2.50
+clean_value: 0.000000
+noisy_value: -0.104000
+filtered_value: -0.033333
+
+index: 252
+time: 2.51
+clean_value: -0.062790
+noisy_value: -0.030790
+filtered_value: -0.062708
+
+index: 253
+time: 2.52
+clean_value: -0.125333
+noisy_value: -0.053333
+filtered_value: -0.095835
+
+index: 254
+time: 2.53
+clean_value: -0.187381
+noisy_value: -0.203381
+filtered_value: -0.143135
+
+index: 255
+time: 2.54
+clean_value: -0.248690
+noisy_value: -0.172690
+filtered_value: -0.165696
+
+index: 256
+time: 2.55
+clean_value: -0.309017
+noisy_value: -0.121017
+filtered_value: -0.187277
+
+index: 257
+time: 2.56
+clean_value: -0.368124
+noisy_value: -0.268124
+filtered_value: -0.208973
+
+index: 258
+time: 2.57
+clean_value: -0.425779
+noisy_value: -0.237779
+filtered_value: -0.366552
+
+index: 259
+time: 2.58
+clean_value: -0.481753
+noisy_value: -0.593753
+filtered_value: -0.487786
+
+index: 260
+time: 2.59
+clean_value: -0.535826
+noisy_value: -0.631826
+filtered_value: -0.660455
+
+index: 261
+time: 2.60
+clean_value: -0.587785
+noisy_value: -0.755785
+filtered_value: -0.680345
+
+index: 262
+time: 2.61
+clean_value: -0.637423
+noisy_value: -0.653423
+filtered_value: -0.729918
+
+index: 263
+time: 2.62
+clean_value: -0.684547
+noisy_value: -0.780547
+filtered_value: -0.684980
+
+index: 264
+time: 2.63
+clean_value: -0.728969
+noisy_value: -0.620969
+filtered_value: -0.733343
+
+index: 265
+time: 2.64
+clean_value: -0.770514
+noisy_value: -0.798514
+filtered_value: -0.736167
+
+index: 266
+time: 2.65
+clean_value: -0.809017
+noisy_value: -0.789017
+filtered_value: -0.866620
+
+index: 267
+time: 2.66
+clean_value: -0.844328
+noisy_value: -1.012328
+filtered_value: -0.893884
+
+index: 268
+time: 2.67
+clean_value: -0.876307
+noisy_value: -0.880307
+filtered_value: -0.909821
+
+index: 269
+time: 2.68
+clean_value: -0.904827
+noisy_value: -0.836827
+filtered_value: -0.867637
+
+index: 270
+time: 2.69
+clean_value: -0.929777
+noisy_value: -0.885777
+filtered_value: -0.921887
+
+index: 271
+time: 2.70
+clean_value: -0.951057
+noisy_value: -1.043057
+filtered_value: -0.955139
+
+index: 272
+time: 2.71
+clean_value: -0.968583
+noisy_value: -0.936583
+filtered_value: -0.989976
+
+index: 273
+time: 2.72
+clean_value: -0.982287
+noisy_value: -0.990287
+filtered_value: -0.912995
+
+index: 274
+time: 2.73
+clean_value: -0.992115
+noisy_value: -0.812115
+filtered_value: -0.988143
+
+index: 275
+time: 2.74
+clean_value: -0.998027
+noisy_value: -1.162027
+filtered_value: -1.002047
+
+index: 276
+time: 2.75
+clean_value: -1.000000
+noisy_value: -1.032000
+filtered_value: -1.105351
+
+index: 277
+time: 2.76
+clean_value: -0.998027
+noisy_value: -1.122027
+filtered_value: -1.075380
+
+index: 278
+time: 2.77
+clean_value: -0.992115
+noisy_value: -1.072115
+filtered_value: -1.105476
+
+index: 279
+time: 2.78
+clean_value: -0.982287
+noisy_value: -1.122287
+filtered_value: -1.095662
+
+index: 280
+time: 2.79
+clean_value: -0.968583
+noisy_value: -1.092583
+filtered_value: -1.020642
+
+index: 281
+time: 2.80
+clean_value: -0.951057
+noisy_value: -0.847057
+filtered_value: -0.937805
+
+index: 282
+time: 2.81
+clean_value: -0.929777
+noisy_value: -0.873777
+filtered_value: -0.892554
+
+index: 283
+time: 2.82
+clean_value: -0.904827
+noisy_value: -0.956827
+filtered_value: -0.910304
+
+index: 284
+time: 2.83
+clean_value: -0.876307
+noisy_value: -0.900307
+filtered_value: -0.860487
+
+index: 285
+time: 2.84
+clean_value: -0.844328
+noisy_value: -0.724328
+filtered_value: -0.873884
+
+index: 286
+time: 2.85
+clean_value: -0.809017
+noisy_value: -0.997017
+filtered_value: -0.889286
+
+index: 287
+time: 2.86
+clean_value: -0.770514
+noisy_value: -0.946514
+filtered_value: -0.866833
+
+index: 288
+time: 2.87
+clean_value: -0.728969
+noisy_value: -0.656969
+filtered_value: -0.701343
+
+index: 289
+time: 2.88
+clean_value: -0.684547
+noisy_value: -0.500547
+filtered_value: -0.552980
+
+index: 290
+time: 2.89
+clean_value: -0.637423
+noisy_value: -0.501423
+filtered_value: -0.541918
+
+index: 291
+time: 2.90
+clean_value: -0.587785
+noisy_value: -0.623785
+filtered_value: -0.579011
+
+index: 292
+time: 2.91
+clean_value: -0.535826
+noisy_value: -0.611826
+filtered_value: -0.628455
+
+index: 293
+time: 2.92
+clean_value: -0.481753
+noisy_value: -0.649753
+filtered_value: -0.502453
+
+index: 294
+time: 2.93
+clean_value: -0.425779
+noisy_value: -0.245779
+filtered_value: -0.483885
+
+index: 295
+time: 2.94
+clean_value: -0.368124
+noisy_value: -0.556124
+filtered_value: -0.354307
+
+index: 296
+time: 2.95
+clean_value: -0.309017
+noisy_value: -0.261017
+filtered_value: -0.375277
+
+index: 297
+time: 2.96
+clean_value: -0.248690
+noisy_value: -0.308690
+filtered_value: -0.205696
+
+index: 298
+time: 2.97
+clean_value: -0.187381
+noisy_value: -0.047381
+filtered_value: -0.217801
+
+index: 299
+time: 2.98
+clean_value: -0.125333
+noisy_value: -0.297333
+filtered_value: -0.110502
+
+index: 300
+time: 2.99
+clean_value: -0.062790
+noisy_value: 0.013210
+filtered_value: -0.142062
+
